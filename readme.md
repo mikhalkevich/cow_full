@@ -1,5 +1,10 @@
 # Шаблонный проект html, css, JavaScript и jQuery
-
+После установки вы получите html, css, jQuery шаблон сайта.
+Папка media\pages с примерами API JavaScript. Рассматриваются такие API, как
+- animation
+- canvas
+- dragAndDrop
+- и другие...
  
 # Ветки
 - main
