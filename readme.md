@@ -4,7 +4,7 @@
 - animation
 - canvas
 - dragAndDrop
-- и другие...
+- и другие.
  
 # Ветки
 - main

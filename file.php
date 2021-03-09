@@ -12,4 +12,5 @@
 'X-Mailer: PHP/' . phpversion();
  mail($_POST['email'], $subject, $body, $headers);
  header('Location: http://pds:81/');
+ //отправка сообщения пользователю
 ?>
